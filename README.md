@@ -14,4 +14,4 @@ Regular linux users needing a recovery media.
 ## Contributing
 I am open for pr's and will appretiate it.
   
-[TO-DO](https://github.com/abdrsk/Rix/TO-DO.md)
+[TO-DO](https://github.com/abdrsk/Rix2/blob/master/TO-DO.md)

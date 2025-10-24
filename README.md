@@ -13,4 +13,5 @@ Regular linux users needing a recovery media.
 - kolourpaint to edit images
 ## Contributing
 I am open for pr's and will appretiate it.
+  
 [TO-DO](https://github.com/abdrsk/Rix/TO-DO.md)

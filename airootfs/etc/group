@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:rixer
+wheel:x:10:rixer
+uucp:x:14:rixer
+archie:x:1000:

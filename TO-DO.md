@@ -1,0 +1,13 @@
+# TO-DO
+- [x] install ly
+- [x] install a launcher
+- [x] add rixer to sudoers (wheel)
+- [x] config foot
+- [x] copy nvim dotfiles
+- [x] config sway
+- [x] config bemenu
+- [x] root fish
+- [x] fix fonts
+- [ ] ly-dm config
+- [ ] fix bemenu
+- [ ] write proper README.md

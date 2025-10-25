@@ -9,5 +9,6 @@
 - [x] root fish
 - [x] fix fonts
 - [ ] ly-dm config
-- [ ] fix bemenu
-- [ ] write proper README.md
+- [ ] replace bemenu with walker
+- [ ] configure walker
+- [x] write proper README.md

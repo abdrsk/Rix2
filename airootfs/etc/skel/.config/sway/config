@@ -10,7 +10,7 @@ set $right l
 # Your preferred terminal emulator
 set $term foot
 # Your preferred application launcher
-set $menu bemenu-run -C -s -l 5 -p "" --fn 'JetBrainsMono 12' --nf \#666666 --fb \#323232 --hf \#ffffff --af \#666666 --ff \#11ff88 --nb \#000000cc --ab \#000000cc --hb \#000000cc -H 28  --single-instance -R 0 -M 0 --cw 16 --cf \#ffffff
+set $menu "fuzzel --background-color=323232ff --border-radius=0 --horizontal-pad=10 --vertical-pad=10 --font=JetBrainsMono -D no -w 60 --input-color=ffffffff -I --text-color=ecececff --border-width=0 --selection-color=222222ff --match-color=ecececff --selection-match-color=ecececbb --selection-text-color=ecececbb"
 
 ### Output configuration
 #
@@ -69,7 +69,7 @@ input * repeat_rate 90
     bindsym $mod+q kill
 
     # Start your launcher
-    bindsym $mod+Space exec $menu
+    bindsym $mod+U exec $menu
     # Lock screen
     bindsym $mod+Shift+L exec swaylock   -f -c 000000 -e -r --font=JetBrainsMono --indicator-idle-visibl --indicator-radius=100 --indicator-thickness=20
     # Drag floating windows by holding down $mod and left mouse button.

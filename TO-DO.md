@@ -12,3 +12,4 @@
 - [x] replace bemenu with fuzzel
 - [x] configure fuzzel
 - [x] write proper README.md
+- [ ] make logo and banner

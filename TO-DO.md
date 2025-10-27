@@ -8,7 +8,7 @@
 - [x] config bemenu
 - [x] root fish
 - [x] fix fonts
-- [ ] ly-dm config
+- [x] ly-dm config
 - [x] replace bemenu with fuzzel
 - [x] configure fuzzel
 - [x] write proper README.md

@@ -69,7 +69,7 @@ input * repeat_rate 90
     bindsym $mod+q kill
 
     # Start your launcher
-    bindsym $mod+U exec $menu
+    bindsym $mod+Space exec $menu
     # Lock screen
     bindsym $mod+Shift+L exec swaylock   -f -c 000000 -e -r --font=JetBrainsMono --indicator-idle-visibl --indicator-radius=100 --indicator-thickness=20
     # Drag floating windows by holding down $mod and left mouse button.

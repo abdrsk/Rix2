@@ -145,11 +145,14 @@ ly
 figlet
 
 ttf-jetbrains-mono
+gtk3
+gtk4
 
 firefox
 grim
 flameshot
 kolourpaint
+thunar
 
 pulseaudio
 pavucontrol

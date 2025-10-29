@@ -12,6 +12,8 @@
 - [x] replace bemenu with fuzzel
 - [x] configure fuzzel
 - [x] write proper README.md
+- [x] setup gtk (dark theme)
+- [ ] edit gtk colors to match wm theme
 - [ ] make logo and banner
-- [ ] setup gtk (dark theme)
-- [ ] replace firefox with something simpler
+- [ ] setup firefox
+- [ ] remove ly-dm for autologin

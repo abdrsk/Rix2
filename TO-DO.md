@@ -13,7 +13,8 @@
 - [x] configure fuzzel
 - [x] write proper README.md
 - [x] setup gtk (dark theme)
+- [x] make logo
 - [ ] edit gtk colors to match wm theme
-- [ ] make logo and banner
 - [ ] setup firefox
 - [ ] remove ly-dm for autologin
+- [ ] add branding to `syslinux/splash.png`

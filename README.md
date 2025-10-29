@@ -1,3 +1,4 @@
+![Logo](resources/logo.png)
 # RIX2
 ## Yet another archlinux based distro
 ### Who should use Rix2

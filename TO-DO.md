@@ -13,3 +13,5 @@
 - [x] configure fuzzel
 - [x] write proper README.md
 - [ ] make logo and banner
+- [ ] setup gtk (dark theme)
+- [ ] replace firefox with something simpler

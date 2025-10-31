@@ -141,7 +141,6 @@ wget
 base-devel
 btop
 fzf
-ly
 figlet
 
 ttf-jetbrains-mono

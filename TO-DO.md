@@ -15,7 +15,7 @@
 - [x] setup gtk (dark theme)
 - [x] make logo
 - [x] edit gtk colors to match wm theme
-- [ ] setup firefox
-- [ ] remove ly-dm for autologin
+- [x] setup firefox
+- [x] remove ly-dm for autologin
 - [ ] add branding to `syslinux/splash.png`
 - [ ] configure btop

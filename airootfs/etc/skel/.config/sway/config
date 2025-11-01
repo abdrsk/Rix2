@@ -15,7 +15,7 @@ set $menu "fuzzel --background-color=323232ff --border-radius=0 --horizontal-pad
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/rixer/Pictures/rix-os_bg_1920x1080.jpg fill
+output * bg /home/rixer/Pictures/rix2_bg_1920x1080.jpg fill
 #
 # Example configuration:
 #

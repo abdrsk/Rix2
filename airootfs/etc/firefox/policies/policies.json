@@ -1,13 +1,16 @@
 {
   "policies": {
+		"Bookmarks": {
     "Bookmarks": [
       {
         "Title": "Rix2 - Gihtub",
         "URL": "https://github.com/abdrsk/Rix2"
       }
-    ],
+    ]
+		},
     "DisableTelemetry": true,
-		"DisableFirstRunPage": true,
+		"NoDefaultBookmarks": true,
+		"OverrideFirstRunPage": ,
     "ExtensionSettings": {
          "uBlock0@raymondhill.net": {
             "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi",

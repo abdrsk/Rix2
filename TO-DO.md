@@ -18,4 +18,6 @@
 - [x] setup firefox
 - [x] remove ly-dm for autologin
 - [x] add branding to `syslinux/splash.png`
+- [ ] autostart sway
+- [ ] add branding to `syslinux`
 - [ ] configure btop

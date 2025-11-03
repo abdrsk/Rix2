@@ -19,5 +19,5 @@
 - [x] remove ly-dm for autologin
 - [x] add branding to `syslinux/splash.png`
 - [x] autostart sway
-- [ ] add branding to `syslinux`
+- [x] add branding to `syslinux`
 - [ ] configure btop

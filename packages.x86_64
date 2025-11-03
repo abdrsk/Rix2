@@ -32,6 +32,7 @@ fatresize
 foot-terminfo
 fsarchiver
 gpart
+gparted
 gpm
 gptfdisk
 grub
@@ -110,6 +111,7 @@ testdisk
 tmux
 tpm2-tools
 tpm2-tss
+tor
 udftools
 usb_modeswitch
 usbmuxd

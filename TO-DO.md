@@ -5,6 +5,6 @@
 - [ ] add wallpaper selector fuzzel
 - [ ] add yt/yt-music player with [m2m](https://github.com/saffron-sh/m2m) fuzzel
 - [ ] add youtube scraper fuzzel
-- [ ] add yotube music scraper fuzzel
+- [ ] add youtube music scraper fuzzel
 - [ ] install and config cava
 - [ ] add fuzzel launcher fuzzel

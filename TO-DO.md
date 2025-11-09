@@ -1,23 +1,10 @@
 # TO-DO
-- [x] install ly
-- [x] install a launcher
-- [x] add rixer to sudoers (wheel)
-- [x] config foot
-- [x] copy nvim dotfiles
-- [x] config sway
-- [x] config bemenu
-- [x] root fish
-- [x] fix fonts
-- [x] ly-dm config
-- [x] replace bemenu with fuzzel
-- [x] configure fuzzel
-- [x] write proper README.md
-- [x] setup gtk (dark theme)
-- [x] make logo
-- [x] edit gtk colors to match wm theme
-- [x] remove ly-dm for autologin
-- [x] add branding to `syslinux/splash.png`
-- [x] add branding to `syslinux`
-- [x] fix autostart sway
-- [x] fix setup firefox
 - [ ] configure btop
+- [ ] add calculator fuzzel
+- [ ] add iwd fuzzel                                                                    - [ ] add more wallpapers
+- [ ] add wallpaper selector fuzzel
+- [ ] add yt/yt-music player with [m2m](https://github.com/saffron-sh/m2m) fuzzel
+- [ ] add youtube scraper fuzzel
+- [ ] add yotube music scraper fuzzel
+- [ ] install and config cava
+- [ ] add fuzzel launcher fuzzel

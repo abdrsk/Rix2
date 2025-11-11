@@ -1,11 +1,11 @@
 # TO-DO
+- [x] add calculator fuzzel
+- [x] add more wallpapers
+- [x] add wallpaper selector fuzzel
+- [x] add fuzzel launcher fuzzel
 - [ ] configure btop
-- [ ] add calculator fuzzel
 - [ ] add iwd fuzzel
-- [ ] add more wallpapers
-- [ ] add wallpaper selector fuzzel
 - [ ] add yt/yt-music player with [m2m](https://github.com/saffron-sh/m2m) fuzzel
-- [ ] add youtube scraper fuzzel
-- [ ] add youtube music scraper fuzzel
+- [ ] add youtube search fuzzel
+- [ ] add youtube music search fuzzel
 - [ ] install and config cava
-- [ ] add fuzzel launcher fuzzel

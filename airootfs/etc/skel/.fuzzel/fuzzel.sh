@@ -1,0 +1,2 @@
+#!/bin/bash
+cat ./$(ls --ignore fuzzel.sh | fuzzel --minimal-lines --background-color=323232ff --border-radius=0 --horizontal-pad=10 --vertical-pad=10 --font=JetBrainsMono -D no -w 60 --input-color=ffffffff -I --text-color=ecececff --border-width=0 --selection-color=222222ff --match-color=ecececff --selection-match-color=ecececbb --selection-text-color=ecececbb --dmenu --placeholder="fuzzel") | bash

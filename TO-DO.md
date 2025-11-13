@@ -3,9 +3,10 @@
 - [x] add more wallpapers
 - [x] add wallpaper selector fuzzel
 - [x] add fuzzel launcher fuzzel
-- [ ] configure btop
+- [x] configure btop
 - [ ] add iwd fuzzel
 - [ ] add yt/yt-music player with [m2m](https://github.com/saffron-sh/m2m) fuzzel
 - [ ] add youtube search fuzzel
 - [ ] add youtube music search fuzzel
 - [ ] install and config cava
+- [ ] configure dunst

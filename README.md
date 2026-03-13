@@ -1,4 +1,8 @@
 # RIX2
+### WARNINGGGGG!!!!
+**DO NOT USE THIS SOFTWARE IF YOUR STATE HAS SOME SORT OF AGE VERIFICATION BILL!**
+*- 3-13-2026*
+---
 ## Yet another archlinux based distro
 ### Who should use Rix2
 Experienced linux users willing to use linux everywhere like in internet café's.
